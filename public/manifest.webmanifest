@@ -1,0 +1,14 @@
+{
+  "name": "Color Pallet",
+  "short_name": "Color Pallet",
+  "description": "A fast, open-source color toolkit for exploring colors, generating palettes and gradients, converting color formats, and checking contrast.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f0f11",
+  "theme_color": "#0f0f11",
+  "icons": [
+    { "src": "https://files.catbox.moe/o949te.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "https://files.catbox.moe/o949te.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
