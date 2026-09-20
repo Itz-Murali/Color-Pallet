@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/o949te.png" alt="Color Pallet logo" width="120" height="120">
+<img src="https://files.catbox.moe/o949te.png" alt="Color Pallet logo" width="60%">
 
 # Color Pallet
 
@@ -14,7 +14,15 @@ Explore colors, build palettes and gradients, convert formats and check contrast
 [![Vite](https://img.shields.io/badge/Vite-7-black?style=flat-square&logo=vite)](https://vite.dev)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-black?style=flat-square&logo=tailwindcss)](https://tailwindcss.com)
 
-[Deploy to Vercel](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FItz-Murali%2FColor-Pallet) · [Report a bug](https://github.com/Itz-Murali/Color-Pallet/issues) · [Contribute](CONTRIBUTING.md)
+<div align="center"><a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FItz-Murali%2FColor-Pallet">
+  <img src="https://img.shields.io/badge/Deploy%20to%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deploy to Vercel">
+</a><br><a href="https://github.com/Itz-Murali/Color-Pallet/issues">
+  <img src="https://img.shields.io/badge/Report%20a%20Bug-D73A4A?style=for-the-badge&logo=github&logoColor=white" alt="Report a Bug">
+</a>
+&nbsp;
+<a href="CONTRIBUTING.md">
+  <img src="https://img.shields.io/badge/Contribute-6F42C1?style=for-the-badge&logo=github&logoColor=white" alt="Contribute">
+</a></div>
 
 </div>
 
@@ -32,7 +40,7 @@ Explore colors, build palettes and gradients, convert formats and check contrast
 - [Project structure](#project-structure)
 - [Architecture](#architecture)
 - [Privacy](#privacy)
-- [Creators](#-creators)
+- [Creators](#creators)
 - [Contributing](#contributing)
 - [License](#license)
 
