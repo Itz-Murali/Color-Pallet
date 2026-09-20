@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://files.catbox.moe/o949te.png" alt="Color Pallet logo" width="60%">
 
 # Color Pallet
