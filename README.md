@@ -164,7 +164,7 @@ public/          PWA manifest and service worker
 
 There is no backend, database, analytics or tracking, and colors never leave your device. The only network requests besides the app itself are the logo and creator images, which load from the URLs in `src/data/site.ts`. Every tool keeps working if they fail to load.
 
-## 👩‍💻 Creators
+## Creators
 
 <table width="100%">
     <tr>
