@@ -191,3 +191,5 @@ Contributions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) first. Keep i
 ## License
 
 Released under the [MIT License](LICENSE).
+
+_Star and fork repo if you liked it_
